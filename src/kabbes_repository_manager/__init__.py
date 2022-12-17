@@ -12,5 +12,9 @@ if profile.has_attr( 'packages_Dir' ):
     manager_search_dir = profile.get_attr( 'packages_Dir' ).path
 
 
-from .Packages import Packages
-from .Package import Package
+from .Repos import Repos
+from .Repo import Repo
+from .Remotes import Remotes
+from .Remote import Remote
+
+from . import main
