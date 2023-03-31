@@ -1,0 +1,53 @@
+kabbes\_repository\_manager package
+===================================
+
+Submodules
+----------
+
+kabbes\_repository\_manager.Remote module
+-----------------------------------------
+
+.. automodule:: kabbes_repository_manager.Remote
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+kabbes\_repository\_manager.Remotes module
+------------------------------------------
+
+.. automodule:: kabbes_repository_manager.Remotes
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+kabbes\_repository\_manager.Repo module
+---------------------------------------
+
+.. automodule:: kabbes_repository_manager.Repo
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+kabbes\_repository\_manager.Repos module
+----------------------------------------
+
+.. automodule:: kabbes_repository_manager.Repos
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+kabbes\_repository\_manager.main module
+---------------------------------------
+
+.. automodule:: kabbes_repository_manager.main
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: kabbes_repository_manager
+   :members:
+   :undoc-members:
+   :show-inheritance:
